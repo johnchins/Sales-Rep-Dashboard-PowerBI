@@ -7,35 +7,28 @@
 **Tools:** PowerBI
 
 ### Questions Asked
-1.	Which salesperson had the highest total sales vs target?
-2.	Which salesperson most consistently met or exceeded their targets month over month?
-3.*	Who had the largest single-month overperformance (actual vs target)?
-4.*	Who had the biggest shortfall in any given month?
-5.	Which team generated the highest total sales?
-6.	Which team had the highest target achievement percentage?
-7.	Which month had the highest overall sales across all reps?
-8.	Which month had the lowest sales compared to targets across the company?
-9.	*Who showed the most improvement in sales between Jan 2023 and Dec 2023?
+1. What is the total actual sales vs target across board?
+2. What is the total acutal sales variation wrt to target?
+3. wWhat does the monthly target performance look like across board?
+4. Which salesperson had the highest total sales vs target?
+5. Which salesperson most consistently met or exceeded their targets month over month?
+6.	Which team generated the highest total sales?
+7.	Which team had the highest target achievement percentage?
+8.	Which month had the highest overall sales across all reps?
+9.	Which month had the lowest sales compared to targets across the company?
 10.	Who had the most red months among the sales reps?
-11.	*Which salesperson exceeded their target by the largest percentage in 2023?
-12.	*Which salesperson missed their target the most often?
-13.	*Which salesperson had the most volatile sales (biggest fluctuations)?
-14.	Which salesperson(s) started 2023 the strongest but fell short of overal target?
-15.	*Across all reps, what percentage of total targets was achieved in 2023?
+11.	Which salesperson(s) started 2023 the strongest but fell short of overal target?
+
 
 ### Findings
-1.	Kaine Padly has the highest total sales vs target
-2.	Curtice Advani and Kaine Padly both met target 9 out of 13 months of the period under consideration
-3.	*In March 2023, Barr Faughny exceeded target by $Z.
-4.	*In October 2023, Brien Boise missed target by $W.
-5.	Yummies team generated $5.29m, marking the highest total sales 
-6.	Yummies teeam achieved 100.12% of their target, Delish 95%.
-7.	In June 2023, total sales reached $1,633,686.75 marking the highest monthly sales recorded.
-8.	September 2023, total sales came in at 6.34% below target
-9.	*Camilla Castle improved by $Y over the year.
+1. The total actual sales came in as $18.95M vs $19.32M target
+2. The total sales variations came in as -$366.86K, representing a 1.9% shortfall of the target
+3. Targets were met in March and July 2023 only, which represents 2 out of 13 months.
+4. Kaine Padly has the highest total sales vs target
+5. Curtice Advani and Kaine Padly both met target 9 out of 13 months of the period under consideration
+6.	Yummies team generated $5.29m, marking the highest total sales 
+7.	Yummies teeam achieved 100.12% of their target, Delish 95%.
+8.	In June 2023, total sales reached $1,633,686.75 marking the highest monthly sales recorded.
+9.	September 2023, total sales came in at 6.34% below target
 10.	Marney O'Brian recorded the lowest performance, meeting sales targets in 2 months and falling short in 9.
-11.	 *Andria Kimpton at 115% of target.
-12.	*Dennison Crosswaite missed target 9 times in 2023.
-13.	*Brien Boise had the highest month-to-month variance.
-14.	Dotty Strutley, Husein Augar, Chess Bonnell, Mallorie Waber, Rafaelita Blaksland all started the first month in the green but fell short of overall target
-15.	*The company achieved 98% of its annual target.
+11.	Dotty Strutley, Husein Augar, Chess Bonnell, Mallorie Waber, Rafaelita Blaksland all started the first month in the green but fell short of overall target
