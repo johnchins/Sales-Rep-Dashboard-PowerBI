@@ -1,5 +1,6 @@
 # Sales-Employee-Dashboard-PowerBI
-![Sales Rep Dashboard shot](https://github.com/user-attachments/assets/34810737-8f40-4add-989c-1e43627b584f)
+![Sales Rep Dashboard shot](https://github.com/user-attachments/assets/35ce1a00-b2f1-4fa3-9aaa-7cfa67610f38)
+
 
 ### Data and Method
 **Data:** Sales Rep Dashboard
